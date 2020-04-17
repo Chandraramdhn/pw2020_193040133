@@ -1,0 +1,31 @@
+.container {
+	text-align: center;
+	margin: auto;
+
+}
+.judulbuku {
+
+}
+
+
+
+li {
+	color: white;
+	text-decoration: none;
+	font-family: times new roman;
+
+}
+
+li:hover {
+	color: hotpink;
+}
+a {
+	text-decoration: none;
+}
+
+body {
+	background: url(../assets/image/bg.png);
+}
+h1 {
+	color: white;
+}
