@@ -1,0 +1,33 @@
+.nav-wrapper {
+	margin-left: 60px;
+	margin-right: 60px;
+}
+.aku {
+	margin-top: -13px;
+}
+.iki {
+	background-color: transparent;
+	box-shadow: none;
+}
+
+.siji{
+	height: 400px;
+	width: 200px;
+}
+.back {
+	padding-top: 60px;
+}
+body {
+	background-image: url(../assets/image/p.png);
+	
+}
+
+.caca {
+	height: 40px;
+	width: 100px;
+	margin-top: 12px;
+}
+
+.kiki {
+	margin-top: 130px;
+}
